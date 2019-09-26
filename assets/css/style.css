@@ -1,0 +1,11 @@
+.jumbotron, .card-header { 
+    background-color: brown;
+    color: white;
+}
+
+body {
+    background-color: rgb(202, 199, 199);
+}
+#add-train-btn {
+    background-color: brown;
+}
